@@ -49,5 +49,8 @@ dependencies {
     implementation (libs.retrofit)
     implementation (libs.retrofit2.converter.moshi)
 
+    implementation (libs.kotlinx.coroutines.core)
+    implementation (libs.jetbrains.kotlinx.coroutines.android)
+
 
 }
